@@ -19,9 +19,5 @@ public class Starter {
         Lesson4Methods.printNTimes("Kuku", 2);
 
         Lesson4Methods.isLeapYear(300);
-
     }
-
-
-
 }
